@@ -28,6 +28,13 @@ Costco Wholesale, 3075 Hamrick Rd, Central Point, OR 97502<br>
 About 20 minutes from Ashland
 
 ### 3 Day plan (~100 miles a day)
+
 #### Day 1 (Ashford to Apple Gate Lake ~ 100 miles)
 Large lake you can paddle board on could spend a while here <br>
 Lots of developed campgrounds not many dispersed options
+
+#### Day 2 ( Apple Gate Lake to Bolan Lake ~ 100 miles)
+Will most likely use the 1040 road bypass to avoid a higher clearnce trail. <BR>
+Also will stop at the first gas station listed above <br>
+Bolan lake is a dispersed campground with 2 vault toliets for more info see [here](https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/bolan-lake-campground)
+
