@@ -76,8 +76,6 @@ Estimated daily driving time assumes frequent stops and relaxed overlanding trav
 # Day 1  
 ### Ashland → Applegate Lake  
 
-![Applegate Lake](https://upload.wikimedia.org/wikipedia/commons/f/f2/Applegate_Lake_Oregon.jpg)
-
 **Distance:** ~100 miles  
 **Estimated Overland Drive Time:** 4–6 hours
 
@@ -149,8 +147,6 @@ This restored fire lookout sits above the forest with **360° mountain views**.
 
 # Day 3  
 ### Bolan Lake → Briggs Creek Crossing → Exit via Selma  
-
-![Siskiyou Forest Road](https://upload.wikimedia.org/wikipedia/commons/9/9c/Klamath_Mountains_view.jpg)
 
 **Distance:** ~80 miles  
 **Estimated Overland Drive Time:** 4–5 hours
