@@ -35,7 +35,8 @@ Lots of developed campgrounds not many dispersed options
 
 #### Day 2 ( Apple Gate Lake to Bolan Lake ~ 100 miles)
 Will most likely use the 1040 road bypass to avoid a higher clearnce trail. <BR>
-Also will stop at the first gas station listed above <br><br>
+Also will stop at the first gas station listed above <br>
+<br>
 Bolan lake is a dispersed campground with 2 vault toliets for more info see [here](https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/bolan-lake-campground)<br>
 Overnight Use:
 - Single Site: $10 per night
