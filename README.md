@@ -100,8 +100,6 @@ Most camping here is **developed campground sites**, with fewer dispersed option
 # Day 2  
 ### Applegate Lake → Bolan Lake  
 
-![Bolan Lake](https://upload.wikimedia.org/wikipedia/commons/6/61/Rogue-River-Siskiyou_National_Forest.jpg)
-
 **Distance:** ~100 miles  
 **Estimated Overland Drive Time:** 5–6 hours
 
