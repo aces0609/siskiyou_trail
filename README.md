@@ -18,3 +18,7 @@ Total Trail Distance is 320 miles from Ashland to briggs creek crossing and out 
 | Gas Station 2 | 62 miles                          | Selma       | 42.279019, -123.616533         | 236 miles         |
 | Gas Station 3 (End of Trail) | 67 miles           | Selma       | 42.279019, -123.616533         | 348 miles         |
 
+## Equipment
+I will be bringing my solar set up so that people can work as needed.
+- Solar Generator
+- StarLink
