@@ -73,7 +73,7 @@ Estimated daily driving time assumes frequent stops and relaxed overlanding trav
 
 ---
 
-# Day 1  
+## Day 1  
 ### Ashland → Applegate Lake  
 
 **Distance:** ~100 miles  
@@ -97,7 +97,7 @@ Most camping here is **developed campground sites**, with fewer dispersed option
 
 ---
 
-# Day 2  
+## Day 2  
 ### Applegate Lake → Bolan Lake  
 
 **Distance:** ~100 miles  
@@ -113,7 +113,7 @@ Fuel Stop:
 
 - **Happy Camp gas station** (~180 miles into the route)
 
-## Bolan Lake Campground
+### Bolan Lake Campground
 
 [Bolan Lake Campground Info](https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/bolan-lake-campground)
 
@@ -131,7 +131,7 @@ Costs:
 
 ---
 
-## Optional Stay: Bolan Mountain Lookout
+### Optional Stay: Bolan Mountain Lookout
 
 [Bolan Mountain Lookout](https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/bolan-mountain-lookout-0)
 
@@ -143,7 +143,7 @@ This restored fire lookout sits above the forest with **360° mountain views**.
 
 ---
 
-# Day 3  
+## Day 3  
 ### Bolan Lake → Briggs Creek Crossing → Exit via Selma  
 
 **Distance:** ~80 miles  
