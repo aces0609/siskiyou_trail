@@ -42,6 +42,6 @@ Overnight Use:
 - Single Site: $10 per night
 - Additional Vehicle Fee: $5 per vehicle per day <br>
 <br>
-Some people could also [here](https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/bolan-mountain-lookout-0) it sleeps 4 people and costs $65 and we woulnd want to book it on April 1 when dates are live.
+Some people could also [here](https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/bolan-mountain-lookout-0)it sleeps 4 people and costs $65 and we woulnd want to book it on April 1 when dates are live.
 
 
