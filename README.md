@@ -22,3 +22,7 @@ Total Trail Distance is 320 miles from Ashland to briggs creek crossing and out 
 I will be bringing my solar set up so that people can work as needed.
 - Solar Generator
 - StarLink
+
+## Costco
+Costco Wholesale, 3075 Hamrick Rd, Central Point, OR 97502<br>
+About 20 minutes from Ashland
