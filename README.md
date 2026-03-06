@@ -1,5 +1,5 @@
 # siskiyou trail
-Trip Planning for siskiyou trail
+Trip Planning for siskiyou trail <br>
 Total Trail Distance is 320 miles from Ashland to briggs creek crossing 
 
 ## Distance to trail 
