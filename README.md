@@ -1,6 +1,6 @@
 # Siskiyou Trail
 Trip Planning for siskiyou trail <br>
-Total Trail Distance is 320 miles from Ashland to briggs creek crossing <br>
+Total Trail Distance is 320 miles from Ashland to briggs creek crossing and out through Selma.<br>
 
 ## Path Taken will be based on this guide <br>
 [Siskiyou Crest Overland Trail Guide](https://www.overlandtrailguides.com/post/siskiyou-crest-overland-trail)<br>
