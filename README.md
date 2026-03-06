@@ -40,7 +40,7 @@ Also will stop at the first gas station listed above <br>
 Bolan lake is a dispersed campground with 2 vault toliets for more info see [here](https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/bolan-lake-campground)<br>
 Overnight Use:
 - Single Site: $10 per night
-- Additional Vehicle Fee: $5 per vehicle per day <b3>
+- Additional Vehicle Fee: $5 per vehicle per day <br>
 Some people could also [here](https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/bolan-mountain-lookout-0) it sleeps 4 people and costs $65 and we woulnd want to book it on April 1 when dates are live.
 
 
