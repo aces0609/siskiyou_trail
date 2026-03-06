@@ -26,3 +26,8 @@ I will be bringing my solar set up so that people can work as needed.
 ## Costco
 Costco Wholesale, 3075 Hamrick Rd, Central Point, OR 97502<br>
 About 20 minutes from Ashland
+
+### 3 Day plan (~100 miles a day)
+#### Day 1 (Ashford to Apple Gate Lake ~ 100 miles)
+Large lake you can paddle board on could spend a while here <br>
+Lots of developed campgrounds not many dispersed options
