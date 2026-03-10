@@ -1,7 +1,5 @@
 # Siskiyou Crest Overland Trail
 
-![Siskiyou Crest](https://upload.wikimedia.org/wikipedia/commons/5/5b/Siskiyou_Mountains_view.jpg)
-
 The **Siskiyou Crest Overland Trail** is a remote ridgeline route running along the Oregon–California border through the Siskiyou Mountains. The trail follows high-elevation forest roads with sweeping views of the Klamath Mountains and access to lakes, lookouts, and remote camp areas.
 
 **Total Trail Distance:** ~320 miles  
